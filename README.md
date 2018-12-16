@@ -21,7 +21,7 @@ Presented on 10 May 2018
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-|1 | Accidentalidad de la ciudad de Madrid | Arturo Aguirre Calvo, Adrián Fernández De La Torre, Adrián Burillo Elmaleh, Ismael Setti Alonso, Arturo Pinar Adán | https://github.com/artuyero/Cloud_BigData_UCM , https://artuyero.github.io/Cloud_BigData_UCM/ |
+|1 | Accidentalidad de la ciudad de Madrid | Arturo Aguirre Calvo, Adrián Fernández De La Torre, Adrián Burillo Elmaleh, Ismael Setti Alonso, Arturo Pinar Adán | [GitHub](https://github.com/artuyero/Cloud_BigData_UCM), [Website]( https://artuyero.github.io/Cloud_BigData_UCM/) |
 |2 | TITLE | AUTHORS | [GitHub], [Website]|
 |3 | TITLE | AUTHORS | [GitHub], [Website]|
 |4 | TITLE | AUTHORS | [GitHub], [Website]|
