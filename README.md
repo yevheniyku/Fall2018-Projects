@@ -28,5 +28,5 @@ Presented on 10 May 2018
 |5 | TITLE | AUTHORS | [GitHub], [Website]|
 |6 | TITLE | AUTHORS | [GitHub], [Website]|
 |7 | TITLE | AUTHORS | [GitHub], [Website]|
-|8 | TITLE | AUTHORS | [GitHub], [Website]|
+|8 | Cryptocurrency Data Analyzer | Esteban Rueda Martinez, Alejandro López-Tello Mora, Yevheniy kushch | [GitHub](https://github.com/yevheniyku/Cryptocurrency-Data-Analizer), [Website](https://cloud.yevkushch.me/)|
 |9 | TITLE | AUTHORS | [GitHub], [Website]|
